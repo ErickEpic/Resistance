@@ -1,0 +1,39 @@
+body {
+    background-color: #d9ba82;
+    margin: 0;
+    
+}
+header{
+    background-color: #a6382e;
+    height: 3rem;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
+    
+    
+}
+.bg1 {
+  background-color: #ceb17c;
+  
+}
+.justify {
+  text-align: justify;
+  margin: 0;
+}
+.link {
+  text-decoration: none;
+  color: #591E1e;
+}
+.link2 {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+  
+
+a:hover {
+  color: #a6382e;
+  transition-timing-function: ease-in-out;
+}
+
+
